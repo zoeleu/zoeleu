@@ -6,4 +6,4 @@
 
 ![matteoturini's github stats](https://github-readme-stats.vercel.app/api?username=matteoturini&theme=dark&show_icons=true)
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fmatteoturini)
+![Views](https://komarev.com/ghpvc/?username=matteoturini)
