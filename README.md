@@ -1,6 +1,6 @@
 ![Views](https://komarev.com/ghpvc/?username=matteoturini)
 
-- 👋 Hi, I’m @matteoturini
+- 👋 Hi, I’m Mattéo!
 - 👀 I’m interested in Web development and Rust!
 - 🌱 I’m currently learning Rust
 - 📫 How to reach me: gh@8x13b.tk
