@@ -1,10 +1,9 @@
 ![Views](https://komarev.com/ghpvc/?username=matteoturini)
 
 - 👋 Hi, I’m Mattéo!
-- 👀 I’m interested in Web development and Kubernetes!
+- 👀 I’m interested in Web development and Rust/C++!
 - 📫 How to reach me: gh@8x13b.tk
-- 🏗️ Currently working on OpenClassroom (on Fossbay organization), an online classes management website!
-- 📚 OpenClassroom is no longer on hold!
+- 🏗️ Currently working on High School (i'm very busy)!
 
 ![matteoturini's github stats](https://github-readme-stats.vercel.app/api?username=matteoturini&theme=dark&show_icons=true)
 
