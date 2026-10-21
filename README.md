@@ -15,6 +15,7 @@ TypeScript · Rust · Bun · React · C · SQL · Linux
 | Project | Description |
 | --- | --- |
 | [**Mobiari**](https://mobiari.com) | Collaborator on an all-in-one commerce platform: WhatsApp and Instagram inbox, orders, inventory, invoicing, and automations in one system. |
+| [**call me maybe**](https://github.com/zoeleu/call_me_maybe) | Turns natural-language requests into function calls with a 0.6B LLM, using constrained decoding so every output is valid JSON. Python, PyTorch, ROCm. |
 | [**ESPion**](https://github.com/zoeleu/ESPion) | Rogue captive-portal hotspot on an ESP8266, showing how easily credentials leak on open Wi-Fi. |
 | [**libft**](https://github.com/zoeleu/libft) | From-scratch libc reimplementation in C: memory, strings, and linked lists. |
 
