@@ -1,6 +1,27 @@
-<h1 align="center">Hi, I'm Zoe!</h1>
-<h6 align="center"><i>A multitalented software developer and tech enthusiast, focused on fullstack web development with NextJS.</i></h6>
+# Zoe Leullier
 
-Currently looking for my first professional debut, after having learnt and made projects in NextJS and having studied computer science fundamentals. Find my information and portfolio on [my website](https://zoe.dev.br/), along with my blog. Don't hesitate to contact me at [zoe@zoe.dev.br](mailto:zoe@zoe.dev.br)!
+**Full-stack developer · São Paulo, Brazil**
 
-<img align="end" width="1902" height="174" alt="See you space cowboy..." src="https://github.com/user-attachments/assets/21b4211a-cdaf-46ae-a0b9-fdcffaa5e233" />
+I build thoughtful software with clean architecture, and I ship fast. When I'm not coding, I'm writing about what I learn.
+
+[Portfolio](https://zoe.dev.br) · [Blog](https://zoe.dev.br/blog/) · [LinkedIn](https://www.linkedin.com/in/zoeleu) · [zoe@zoe.dev.br](mailto:zoe@zoe.dev.br)
+
+### Stack
+
+TypeScript · Rust · Bun · React · C · SQL · Linux
+
+### Featured projects
+
+| Project | Description |
+| --- | --- |
+| [**trackapp**](https://github.com/zoeleu/trackapp) | Real-time delivery tracking with token caching and Turnstile bot protection. Next.js, React, Bun. |
+| [**ESPion**](https://github.com/zoeleu/ESPion) | Rogue captive-portal hotspot on an ESP8266, showing how easily credentials leak on open Wi-Fi. |
+| [**libft**](https://github.com/zoeleu/libft) | From-scratch libc reimplementation in C: memory, strings, and linked lists. |
+
+### Education
+
+**42 São Paulo** — Software engineering, peer-to-peer curriculum
+
+---
+
+More about me and my work at **[zoe.dev.br](https://zoe.dev.br)**.
