@@ -10,13 +10,21 @@ I build thoughtful software with clean architecture, and I ship fast. When I'm n
 
 TypeScript · Rust · Bun · React · C · SQL · Linux
 
-### Featured projects
+### Projects
 
 | Project | Description |
 | --- | --- |
-| [**trackapp**](https://github.com/zoeleu/trackapp) | Real-time delivery tracking with token caching and Turnstile bot protection. Next.js, React, Bun. |
+| [**Mobiari**](https://mobiari.com) | Collaborator on an all-in-one commerce platform: WhatsApp and Instagram inbox, orders, inventory, invoicing, and automations in one system. |
 | [**ESPion**](https://github.com/zoeleu/ESPion) | Rogue captive-portal hotspot on an ESP8266, showing how easily credentials leak on open Wi-Fi. |
 | [**libft**](https://github.com/zoeleu/libft) | From-scratch libc reimplementation in C: memory, strings, and linked lists. |
+
+### Writing
+
+- [Hello, world](https://zoe.dev.br/blog/hello-world/) · September 2, 2026
+
+### Experience
+
+**Develari** — Full-stack developer · August 2026 – present
 
 ### Education
 
